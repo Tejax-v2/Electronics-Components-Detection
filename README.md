@@ -7,11 +7,7 @@ This repository contains a fine-tuned YOLOv11 model for detecting various electr
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Model Training](#model-training)
-- [Model Evaluation](#model-evaluation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+- [Credits](#credits)
 
 ---
 
